@@ -22,6 +22,6 @@ i had a deal with a femboy named woen for 150$ but he decided to scam me hes che
 **If you using this in your project and releasing it on github then credit the right people below**
 
 Credits: 
-- Aniell4 for orignal source
+- Aniell4 for orignal source https://github.com/Aniell4
 - Avenger for modifying the code to fix lock acc issue
 
