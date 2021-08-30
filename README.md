@@ -10,7 +10,9 @@ Bypass HCAPTCHA purely based on http requests Works for discord dosen't create l
 
 ◉ to solve captcha call the function 
 
--> bypass(sitekey, "discord.com", proxy="ip:port") or bypass(sitekey, "discord.com", proxy="username:pass@ip:port")
+-> bypass(sitekey, "discord.com", proxy="ip:port") 
+or 
+bypass(sitekey, "discord.com", proxy="username:pass@ip:port")
 
 😢 **Why release this?** 
 
