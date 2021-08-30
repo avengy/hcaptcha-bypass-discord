@@ -2,11 +2,14 @@
 Bypass HCAPTCHA purely based on http requests Works for discord dosen't create locked accounts :))
 
 
-**HOW TO USE
+**HOW TO USE**
 
 ◉ add the hcapbypass.py in your project
+
 ◉ "from hcapbypass import bypass" at top of your main file 
+
 ◉ to solve captcha call the function 
+
 -> bypass(sitekey, "discord.com", proxy="ip:port") or bypass(sitekey, "discord.com", proxy="username:pass@ip:port")
 
 **Why released?
